@@ -1,1 +1,2 @@
-
+Дашборд для компании Газпром Нефть по продажам нетопливных продуктов на заправках
+link: https://app.powerbi.com/groups/me/reports/1663fdc6-96c5-4dc6-9155-2f18c7757cdf/ReportSection807d7370bd1d1e7c87e0?ctid=8681a15c-23d6-4921-b30e-393b84f79d2c&experience=power-bi
