@@ -5,7 +5,6 @@
 I am a passionate data analyst developing in **product analytics** and Data Science in general. <br> Great love for the presentation of ideas, products and results ❤️
 
 ## Skills 💻
-<div>
 
 ### General
 
@@ -18,13 +17,11 @@ I am a passionate data analyst developing in **product analytics** and Data Scie
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |<img src="https://github.com/BodBodBod/Icons/blob/main/numpy.svg" title="numpy"  alt="numpy" width="60" height="60"/> |  <img src="https://github.com/BodBodBod/Icons/blob/main/pandas-original.svg" title="pandas"  alt="pandas" width="60" height="60"/> |  <img src="https://github.com/BodBodBod/Icons/blob/main/Matplotlib_icon.svg" title="plt" alt="plt" width="60" height="60"/> |  <img src="https://github.com/BodBodBod/Icons/blob/main/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="60" height="60"/>|  <img src="https://github.com/BodBodBod/Icons/blob/main/pytorch-original.svg" title="torch" alt="torch" width="60" height="60"/>|
 
-</div>
 
 ### Cases 🥇
-<div>
   
 **Together with the team, we have passed many of the largest case championships in Russia, our work can be found in the "cases" folder.**
-In all championships played the role of captain and analyst.
+<br> In all championships played the role of captain and analyst.
 
 | Competition | Result | Team | Date |
 |-----|-----|-----|-----|
@@ -35,15 +32,13 @@ In all championships played the role of captain and analyst.
 | Urbanhack Hackathon | final | John Galt | 10/23 |
 | Sozdateli | final | John Galt | 09/23 |
 
-</div>
 
 ### Repo description
-<div>
 
-1. **Analytics & ML-projects**  Сontains some training tasks related to data analysis and model training
+1. **Analytics & ML-projects**
+<br> Сontains some training tasks related to data analysis and model training
 2. **Cases**
-It contains some presentations that we made together with the team at some case championships.
-My role in all competitions is captain and analyst
-3. **Dashboards**
-Contains some dashboards I built
-</div>
+<br> It contains some presentations that we made together with the team at some case championships.
+<br> My role in all competitions is captain and analyst
+4. **Dashboards**
+<br> Contains some dashboards I built
