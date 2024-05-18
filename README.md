@@ -1,17 +1,22 @@
 # Nikita's-projects
-### About Me 👨🏻‍🏫
+## About Me 👨🏻‍🏫
 <div>
 
 I am a passionate data analyst developing in **product analytics** and Data Science in general. Great love for the presentation of ideas, products and results ❤️
 
-### Skills 💻
+## Skills 💻
 <div>
 
-**I have most of the necessary skills of a product analyst:**
+### General
 
 | Python  | SQL | Statistics | Tableau | ML |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |<img src="https://github.com/BodBodBod/Icons/blob/main/python.svg" title="Python"  alt="Python" width="70" height="70"/> |  <img src="https://github.com/BodBodBod/Icons/blob/main/sql.svg" title="SQL"  alt="SQL" width="70" height="70"/> |  <img src="https://github.com/BodBodBod/Icons/blob/main/statistics-svgrepo-com.svg" title="Stats" alt="Stats" width="60" height="60"/> |  <img src="https://github.com/BodBodBod/Icons/blob/main/tableau-software.svg" title="Visual" alt="Visual" width="60" height="60"/>|  <img src="https://github.com/BodBodBod/Icons/blob/main/machine-learning-01-svgrepo-com.svg" title="ML" alt="ML" width="60" height="60"/>|
+
+### Main libraries in Python 
+| Numpy  | Pandas | Matplotlib | Sklearn | PyTorch |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+|<img src="https://github.com/BodBodBod/Icons/blob/main/numpy.svg" title="numpy"  alt="numpy" width="60" height="60"/> |  <img src="https://github.com/BodBodBod/Icons/blob/main/pandas-original.svg" title="pandas"  alt="pandas" width="60" height="60"/> |  <img src="https://github.com/BodBodBod/Icons/blob/main/Matplotlib_icon.svg" title="plt" alt="plt" width="60" height="60"/> |  <img src="https://github.com/BodBodBod/Icons/blob/main/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="60" height="60"/>|  <img src="https://github.com/BodBodBod/Icons/blob/main/pytorch-original.svg" title="torch" alt="torch" width="60" height="60"/>|
 
 </div>
 
