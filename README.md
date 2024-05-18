@@ -29,8 +29,7 @@ In all championships played the role of captain and analyst.
 
 ### Repo description
 <div>
-1. **Analytics & ML-projects**
-Сontains some training tasks related to data analysis and model training
+1. **Analytics & ML-projects**  Сontains some training tasks related to data analysis and model training
 2. **Cases**
 It contains some presentations that we made together with the team at some case championships.
 My role in all competitions is captain and analyst
