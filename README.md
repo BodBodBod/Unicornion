@@ -8,6 +8,11 @@ I have most of the necessary skills of a product analyst:
 * Visualization tools: PowerBI and Tableau
 * Classical machine learning.
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 **Together with the team, we have passed many of the largest case championships in Russia, our work can be found in the "cases" folder.**
 In all championships he had the role of captain and analyst.
 
