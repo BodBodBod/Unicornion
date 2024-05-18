@@ -2,7 +2,7 @@
 ## About Me 👨🏻‍🏫
 <div>
 
-I am a passionate data analyst developing in **product analytics** and Data Science in general. Great love for the presentation of ideas, products and results ❤️
+I am a passionate data analyst developing in **product analytics** and Data Science in general. <br> Great love for the presentation of ideas, products and results ❤️
 
 ## Skills 💻
 <div>
