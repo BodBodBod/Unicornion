@@ -18,7 +18,7 @@ I am a passionate data analyst developing in **product analytics** and Data Scie
 |<img src="https://github.com/BodBodBod/Icons/blob/main/numpy.svg" title="numpy"  alt="numpy" width="60" height="60"/> |  <img src="https://github.com/BodBodBod/Icons/blob/main/pandas-original.svg" title="pandas"  alt="pandas" width="60" height="60"/> |  <img src="https://github.com/BodBodBod/Icons/blob/main/Matplotlib_icon.svg" title="plt" alt="plt" width="60" height="60"/> |  <img src="https://github.com/BodBodBod/Icons/blob/main/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="60" height="60"/>|  <img src="https://github.com/BodBodBod/Icons/blob/main/pytorch-original.svg" title="torch" alt="torch" width="60" height="60"/>|
 
 
-### Cases 🥇
+## Cases 🥇
   
 **Together with the team, we have passed many of the largest case championships in Russia, our work can be found in the "cases" folder.**
 <br> In all championships played the role of captain and analyst.
@@ -33,7 +33,7 @@ I am a passionate data analyst developing in **product analytics** and Data Scie
 | Sozdateli | final | John Galt | 09/23 |
 
 
-### Repo description
+## Repo description
 
 1. **Analytics & ML-projects**
 <br> Сontains some training tasks related to data analysis and model training
